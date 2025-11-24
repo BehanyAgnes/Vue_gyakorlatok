@@ -1,1 +1,27 @@
+wizzair-clone/
+│
+├─ src/
+│   ├─ assets/
+│   │   └─ hero.jpg
+│   │
+│   ├─ components/
+│   │   ├─ Header.vue
+│   │   ├─ Hero.vue
+│   │   ├─ BookingBox.vue
+│   │   ├─ Destinations.vue
+│   │   └─ Footer.vue
+│   │
+│   ├─ views/
+│   │   ├─ Home.vue
+│   │   ├─ Search.vue
+│   │   └─ Booking.vue
+│   │
+│   ├─ router/
+│   │   └─ index.js
+│   │
+│   ├─ App.vue
+│   └─ main.js
+│
+└─ package.json
 
+A WizzAir oldalának leklónozása, jelenleg az oldal statikusan működik, a funkcionalitás a következőekben fog megvalósulni. 
