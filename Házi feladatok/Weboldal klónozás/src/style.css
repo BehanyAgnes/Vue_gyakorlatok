@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  background: #f8f9fa;
+  color: #202122;
+  margin: 0;
+}
+
+a {
+  color: #0645ad;
+  text-decoration: none;
+  padding: 20px;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.box {
+  background: white;
+  border: 1px solid #a2a9b1;
+  border-radius: 2px;
+  padding: 12px;
+  margin-bottom: 20px;
+}
+
+.kiemelt_szocikk 
+{
+  text-align: center;
+}
+
+.image-of-the-day img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
