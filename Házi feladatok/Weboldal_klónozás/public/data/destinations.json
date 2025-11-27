@@ -1,0 +1,48 @@
+{
+  "destinations": [
+    {
+      "city": "Egyiptom",
+      "price": 234000,
+      "image": "https://images.pexels.com/photos/3522880/pexels-photo-3522880.jpeg"
+    },
+    {
+      "city": "Prága",
+      "price":112000,
+      "image": "https://images.pexels.com/photos/34888463/pexels-photo-34888463.jpeg"
+    },
+    {
+      "city": "Maldív-szigetek",
+      "price": 890000,
+      "image": "https://images.pexels.com/photos/1483053/pexels-photo-1483053.jpeg"
+    },
+    {
+      "city": "Santorini",
+      "price": 560000,
+      "image": "https://images.pexels.com/photos/34822448/pexels-photo-34822448.jpeg"
+    },
+
+      {
+      "city": "Róma",
+      "price": 210000,
+      "image": "https://images.pexels.com/photos/34870426/pexels-photo-34870426.jpeg"
+    }, 
+
+      {
+      "city": "Párizs",
+      "price": 340000,
+      "image": "https://images.pexels.com/photos/34896700/pexels-photo-34896700.jpeg"
+    }, 
+
+      {
+      "city": "Mauritius",
+      "price": 960000,
+      "image": "https://images.pexels.com/photos/34870508/pexels-photo-34870508.jpeg"
+    }, 
+
+      {
+      "city": "Bali",
+      "price": 985000,
+      "image": "https://images.pexels.com/photos/2474689/pexels-photo-2474689.jpeg"
+    }
+  ]
+}
