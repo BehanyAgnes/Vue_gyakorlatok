@@ -1,23 +1,23 @@
 
 
-├─public
-  ├─├─ data/
-     ├─├─ destinations.json
-src/
-├─ components/
-│  ├─ BookingBox.vue
-│  ├─ Destionations.vue
-│  ├─ Footer.vue
-│  ├─ Header.vue
-├─router/
-  ├─index.js 
-│ ├─ views/
-│  ├─ Bookin.vue
-|  ├─Home.vue
-|  ├─ Search.vue
-├─ App.vue
-├─stlye.css
-└─ main.js
+├─public  
+  ├─├─ data/  
+     ├─├─ destinations.json  
+src/  
+├─ components/  
+│  ├─ BookingBox.vue  
+│  ├─ Destionations.vue  
+│  ├─ Footer.vue  
+│  ├─ Header.vue  
+├─router/  
+  ├─index.js     
+│ ├─ views/  
+│  ├─ Bookin.vue  
+|  ├─Home.vue  
+|  ├─ Search.vue  
+├─ App.vue  
+├─stlye.css  
+└─ main.js  
 
 A projekt célja a WizzAir oldalának leklónozása. 
 A projekt funkcionalitása: 
