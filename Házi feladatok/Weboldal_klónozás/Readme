@@ -25,3 +25,5 @@ wizzair-clone/
 └─ package.json
 
 A WizzAir oldalának leklónozása, jelenleg az oldal statikusan működik, a funkcionalitás a következőekben fog megvalósulni. 
+A projekt célja, hogy vizuálisan lemásolja a WizzAir oldalát egy vue.js project-ben. 
+A funkciók jelenleg részben múködőképesek, továbbfejlesztés alatt álnak Javascript kóddal és animációkkal. 
