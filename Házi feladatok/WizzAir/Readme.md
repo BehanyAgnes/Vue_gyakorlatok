@@ -1,4 +1,8 @@
+A projekt elkezdéséhez szükséges parancsok:
 
+npm create vite@latest klonozott_weboldal --template vue npm install ha van benne router: npm install vue-router
+
+projekt elinditása: npm run dev
 
 ├─public  
   ├─├─ data/  
