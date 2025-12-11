@@ -1,0 +1,86 @@
+{
+  "receptek": [
+  {
+    "id": 1,
+    "nev": "Csirkepaprikás",
+    "kep": "https://upload.wikimedia.org/wikipedia/commons/9/97/Csirkepaprik%C3%A1s.jpg",
+    "kategoria": "Magyar konyha",
+    "leiras": "Csípős paprika csirke nokedlivel",
+    "pont": 9.2
+  },
+  {
+    "id": 2,
+    "nev": "Gulyásleves",
+    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Guly%C3%A1sleves_bogr%C3%A1csban_t%C3%A1lalva.jpg/1200px-Guly%C3%A1sleves_bogr%C3%A1csban_t%C3%A1lalva.jpg",
+    "kategoria": "Levesek",
+    "leiras": "Hagyományos magyar gulyás",
+    "pont": 9.5
+  },
+  {
+    "id": 3,
+    "nev": "Lángos",
+    "kep": "https://kep.index.hu/1/0/2909/29092/290927/29092785_2adee1f7b1ccde144030a5184a7f4f05_wm.jpg",
+    "kategoria": "Street food",
+    "leiras": "Sajt fokhagyma tejföl",
+    "pont": 8.7
+  },
+  {
+    "id": 4,
+    "nev": "Somlói galuska",
+    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Somloi-galuska.JPG/500px-Somloi-galuska.JPG",
+    "kategoria": "Desszert",
+    "leiras": "Legendás magyar háromszínes sütemény",
+    "pont": 9.8
+  },
+  {
+    "id": 5,
+    "nev": "Bécsi szelet",
+    "kep": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2022-12-29_Wiener_Schnitzel_im_Hotel_Kaiserin_Elisabeth.jpg/2560px-2022-12-29_Wiener_Schnitzel_im_Hotel_Kaiserin_Elisabeth.jpg",
+    "kategoria": "Főétel",
+    "leiras": "Rántott borjúborda hagymás burgonyával",
+    "pont": 8.9
+  },
+  {
+    "id": 6,
+    "nev": "Palócgulyás",
+    "kep": "https://mjksz.hu/sites/default/files/styles/full_width/public/media/images/nyari_zoldbabos_palocgulyas.jpg",
+    "kategoria": "Magyar konyha",
+    "leiras": "Fűszeres marhahús burgonyával",
+    "pont": 9.1
+  },
+  {
+    "id": 7,
+    "nev": "Rákóczi túrós",
+    "kep": "https://jakocukraszda.com/files/termekek/8/termkep_398.jpg",
+    "kategoria": "Desszert",
+    "leiras": "Réteslap mákos túrós krémmel",
+    "pont": 8.4
+  },
+  {
+    "id": 8,
+    "nev": "Pörkölt",
+    "kep": "http://pctrs.network.hu/clubpicture/1/6/8/6/_/kacsazuza_porkolt_1686693_1003.jpg",
+    "kategoria": "Magyar konyha",
+    "leiras": "Húsos alap nokedlihez galuskához",
+    "pont": 8.8
+  },
+   {
+    "id": 9,
+    "nev": "Pacal pörkölt",
+    "kep": "https://image-api.nosalty.hu/nosalty/images/recipes/9l/hV/velo-pacalporkolt.jpg?w=1340&fit=crop&fm=webp&crop=3888%2C2578%2C8%2C85&h=920&mark=watermark.png&markpos=bottom-left&markpad=20&markw=&s=9f407ea27afc9f3824d0106042853a63",
+    "kategoria": "Magyar konyha",
+    "leiras": "Velős pacalpörkölt ",
+    "pont": 8.8
+  },
+   {
+    "id": 10,
+    "nev": "Palacsinta",
+    "kep": "https://image-api.nosalty.hu/nosalty/images/recipes/x8/ks/egyszeru-vegan-palacsinta.jpg?w=1340&fit=crop&fm=webp&crop=2038%2C1363%2C0%2C1&h=920&mark=watermark.png&markpos=bottom-left&markpad=20&markw=&s=5ba7fddaa8742b053efa627d6dcfb387",
+    "kategoria": "Magyar konyha",
+    "leiras": "Egyszerű palacsinta",
+    "pont": 8.8
+  }
+
+
+  ]
+}
